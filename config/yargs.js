@@ -11,7 +11,7 @@ const argv = require('yargs')
                     alias: 'hasta',
                     type: 'number',
                     dafault: 10,
-                    describe: 'Este es el número hast dónde quieres la tabla'
+                    describe: 'Este es el número hasta dónde quieres la tabla'
                 })
                 .option('l', {
                     alias: 'listar',
