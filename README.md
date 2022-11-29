@@ -1,5 +1,27 @@
-# Notas
-Este es mi primer programa en node
+
+
+## Descricción
+
+Programa básico de node js tablas de multiplicar
+referencia curso Fernando Herrera, Node de cero a experto
+
+
+
+
+## Autor
+**Nicolás Rossetti**
+
+
+
+## Ver ejemplo en vivo
+**link**
+
+
+* [LinkedIn] (https://www.linkedin.com/in/webson2020/)
+* [Contacto] (nrossettiossa@gmail.com)
+
+
+
 
 ```
 Options:
